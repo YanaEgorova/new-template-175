@@ -40,7 +40,7 @@
     padding: 10rem 0;
     text-align: center;
     position: relative;
-    background-image: linear-gradient(to right, #868e86, #c58e43);
+    background-image: linear-gradient(to right, var(--second-brand-color), var(--third-brand-color));
 }
 .contacts::before {
     display: block;
