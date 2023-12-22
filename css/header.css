@@ -118,7 +118,7 @@ body.open-menu {
     background-position: center center;
     background-size: 40% auto;
 }
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1440px) {
 
     .header {
         flex-direction: row-reverse;
